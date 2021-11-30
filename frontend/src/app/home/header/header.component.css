@@ -1,0 +1,22 @@
+.headerSpacer {
+
+flex:1 1 auto;
+
+}
+
+ul {
+margin: auto;
+}
+
+ul li {
+
+list-style: none;
+display: inline-flex;
+padding: 5px;
+
+}
+
+li a {
+text-decoration: none;
+color: #fff;
+}
